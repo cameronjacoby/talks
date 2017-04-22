@@ -343,6 +343,3 @@ body {
 
 .reveal table.table-no-margin {
   margin: 0; }
-
-#transcript-format p:not(.mb40) {
-  display: none; }
